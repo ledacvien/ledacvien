@@ -17,6 +17,7 @@ public class C205Exam1{
       Scanner kb = new Scanner(System.in);
 
       double totalWeight = 0;
+      char again;
 
       Wallaby female = new Wallaby();
       female.gender = 'F';
@@ -31,24 +32,29 @@ public class C205Exam1{
       male2.age = 6;
       male2.weight = 18.5;
 
-      System.out.println("Plese enter the age of the female wallaby: ");
-      do{
-         System.out.print("Age must be from 2 -> 15 : ");
-         female.age = kb.nextInt();
-      } while (female.age < 2 || female.age > 15);
+      do{ 
+         System.out.println("Plese enter the age of the female wallaby: ");
+         do{
+            System.out.print("Age must be from 2 -> 15 : ");
+            female.age = kb.nextInt();
+         } while (female.age < 2 || female.age > 15);
 
-      System.out.print("Plese enter the weight of the female wallaby: ");
-      female.weight = kb.nextDouble();
+         System.out.print("Plese enter the weight of the female wallaby: ");
+         female.weight = kb.nextDouble();
 
-      for (int year = 0; year < 10 ; year++) {
-         totalWeight += TestWallaby (female, male1, 'M').weight;
-         totalWeight += TestWallaby (female, male2, 'F').weight;
-         female.age++;
-         male1.age++;
-         male2.age++;
-      }
+         for (int year = 0; year < 10 ; year++) {
+            totalWeight += TestWallaby (female, male1, 'M').weight;
+            totalWeight += TestWallaby (female, male2, 'F').weight;
+            female.age++;
+            male1.age++;
+            male2.age++;
+         }
 
-      System.out.println("Total weight of 20 wallaby babies after 10 years: " + totalWeight);
+         System.out.println("Total weight of 20 wallaby babies after 10 years: " + totalWeight);
+
+         System.out.print("Again (y/n): ");
+         again = kb.next().charAt(0);
+      } while (again == 'Y' || again == 'y');
    }
 
    public static Wallaby TestWallaby (Wallaby mom, Wallaby dad, char gender){
