@@ -2,15 +2,15 @@
 
 <h3 align="center">An aspiring software engineer from Arizona, USA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidgamingvn&label=Profile%20views&color=0e75b6&style=flat" alt="davidgamingvn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ledacvien&label=Profile%20views&color=0e75b6&style=flat" alt="ledacvien" /> </p>
 
 - 👨‍💻 All of my projects are available in my github profile
 
-- 🎓 BS in CS @ ASU '24 🔱
+- 🎓 BS in CS @ ASU Dec '24 🔱
 
 - 📫 You can reach me @ **<VienDacLe@gmail.com>**
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: **I love travelling and exploring new horizon. I have been to 8 cities last year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,7 @@
     <td>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg" width="100px" height="50px"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-sharp.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" width="100px" height="50px"/>
@@ -34,7 +35,6 @@
     <td>Frontend</td>
     <td>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg" width="100px" height="50px"/>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/vitejs.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/nextjs.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/angular-icon.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss-icon.svg" width="100px" height="50px"/>
@@ -45,10 +45,11 @@
   <tr>
     <td>Backend</td>
     <td>
-      <img src=https://github.com/uiwjs/file-icons/blob/master/icon/django.svg>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/django.svg" width="100px" height="50px"/>
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>
+      <img src=https://github.com/uiwjs/file-icons/blob/master/icon/visualstudio.svg>
     </td>
   </tr>
 
@@ -94,9 +95,9 @@
 
 Hackathons I have participated in:
 
-- **sunhacks @ ASU**
+- **ASU Spark Challenge**
 
-- **HackMerced @ UC Merced**
+- **sunhacks @ ASU**
 
 **My favourite Technologies:**
 
@@ -104,10 +105,10 @@ Hackathons I have participated in:
   <tr>
     <td>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg" width="100px" height="50px"/>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" width="100px" height="50px"/>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" width="100px" height="50px"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg" width="100px" height="50px"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/flutter.svg" width="100px" height="50px"/>
      </td>
   </tr>
 </table>
