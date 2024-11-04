@@ -1,4 +1,4 @@
-### Hi there, I'm Dac Vien Le (<img src="https://www.svgrepo.com/show/405655/flag-for-flag-vietnam.svg" width="20px" height="15px"/>) 👋
+### Hi there, I'm Dac Vien Le 👋
 
 <h3 align="center">An aspiring software engineer from Arizona, USA.</h3>
 
@@ -46,7 +46,7 @@
     <td>Backend</td>
     <td>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/django.svg" width="100px" height="50px"/>
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/flask.svg" width="100px" height="50px"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>
       <img src=https://github.com/uiwjs/file-icons/blob/master/icon/visualstudio.svg>
@@ -97,7 +97,9 @@ Hackathons I have participated in:
 
 - **ASU Spark Challenge**
 
-- **sunhacks @ ASU**
+- **sunhacks @ Arizona State University (ASU)**
+
+- **DubHack @ University of Washington - Seatle**
 
 **My favourite Technologies:**
 
